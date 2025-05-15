@@ -32,7 +32,3 @@ Instead of relying on built-in recurrent layers, this project defines:
 - scikit-learn
 - matplotlib
 
-You can install the requirements using:
-
-```bash
-pip install -r requirements.txt
